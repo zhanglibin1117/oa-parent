@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("hello zhangsan");
+	System.out.println("测试GitHub push");
     }
 }
